@@ -1,0 +1,74 @@
+header {
+  background-color: red;
+  color: white;
+}
+
+main {
+  display: flex;
+  /* border: 1px solid rgb(4, 104, 40); */
+  border-width: 1px;
+  border-color: rgb(4, 104, 40);
+  border-style: solid;
+  /* flex-direction: row-reverse;
+  justify-content: flex-end; */
+}
+
+footer {
+  background-color: black;
+  color: white;
+}
+
+article {
+  background-color: blue;
+  color: white;
+  /* width: 20%;
+  position: relative;
+  left: 50px;
+  top: 100px; */
+  /* margin: 0.5em;
+  padding: 0.5em; */
+  /* border: 1px solid black; */
+}
+
+a:nth-child(2n) {
+  text-decoration: none;
+}
+
+a:active {
+  color: yellow;
+}
+
+article:hover {
+  background-color: rgb(4, 104, 40);
+}
+
+aside {
+  background-color: rgb(187, 0, 255);
+  color: white;
+}
+
+/* iphone */
+@media (min-width: 0px) {
+  a {
+    color: black;
+  }
+}
+
+/* iPad */
+@media (min-width: 300px) and (max-width: 500px) {
+  a {
+    color: green;
+  }
+}
+
+@media (min-width: 501px) {
+  a {
+    color: purple;
+  }
+}
+
+/* header,
+main,
+footer {
+  border: 1px solid black;
+} */
