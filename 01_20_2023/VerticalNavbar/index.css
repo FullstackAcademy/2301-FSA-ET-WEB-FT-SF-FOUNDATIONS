@@ -1,0 +1,25 @@
+/* 
+
+    CSS for the Vertical Bar
+    - Links are blue background with white color
+    - Text is aligned center
+    - Each link is spaced with gaps
+    - Font is monospace
+*/
+
+ul {
+    list-style: none;
+    width: fit-content;
+}
+
+li {
+    background-color: #3b3bc1;
+    color: white;
+
+    padding: 1rem;
+    margin: 1rem;
+    text-align: center;
+    text-transform:uppercase;
+
+    font-family: monospace;
+}

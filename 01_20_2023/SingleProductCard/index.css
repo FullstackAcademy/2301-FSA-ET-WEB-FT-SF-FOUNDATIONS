@@ -1,0 +1,31 @@
+/* 
+
+    CSS for the Product Card
+    - Width is at most 1/3rd the page (maybe set to specific width)
+    - Title on blue background with white text
+    - Image to width of card
+    - text is left aligned
+    - Price same color as title
+*/
+
+.product {
+    display:flex;
+    flex-direction: column;
+    width: 30vw;
+    
+    box-shadow: 0px 0px 2px gray;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+section, h3 {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3b3bc1;
+    color: white;
+    font-weight: bold;
+
+    margin:0;
+    padding: 0.5rem 1rem;
+}

@@ -1,0 +1,43 @@
+/* 
+
+    CSS for the Horizontal Navbar
+    - Background is Blue
+    - Text is White
+    - Links on the Left
+    - Log In/Sign Up, Account, Cart Icon on the Right
+    - White Bars between each link
+*/
+
+
+/* 
+    Background of header set to blue
+    Also get display flex ready for layout
+ */
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: #3b3bc1;
+    color: white;
+}
+
+nav {
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 1rem;
+}
+
+nav > * {
+    color: white;
+    font-size: 1.5rem;
+    margin: 0 1rem;
+    padding-right: 1rem;
+    border-right: 1px solid white;
+}
+
+nav > *:last-child {
+    border: none;
+}
