@@ -5,6 +5,8 @@
 - [Examples](01_19_2023)
 
 ### 01-20-2022
-<!-- 
-- [Recorded Review Lecture](https://youtu.be/1x6yLpPjUds) -->
+
+- [Review Lecture](https://youtu.be/XwQNPPGfvRE)
 - [CSS Layout Solutions](01_20_2023)
+
+- [Personal Site Intro](https://youtu.be/6BF0qcHIh2Q)
