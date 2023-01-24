@@ -16,3 +16,14 @@
 - [Intro to JS](https://youtu.be/YaTd3RNZ_h4)
 - [JS Worksheet Review](https://youtu.be/z_FwfTa7TVQ)
 - [Today's Examples](01_23_2023)
+
+### 01_24_2023
+
+- [Morning Review](https://youtu.be/HOcODmqUqOY)
+- [Conditionals Lecture](https://youtu.be/nV8IYI2uvWs)
+- [Conditionals Worksheet Recap](https://youtu.be/-JlfwyseNs8)
+- [Loops Lecture](https://youtu.be/BFAqzfk6810)
+
+- [Conditionals and Loops notes](/01_24_2023/conditionals.js)
+
+- [Bug-hunt-solution](/01_24_2023/bug-hunt-solution.js)
