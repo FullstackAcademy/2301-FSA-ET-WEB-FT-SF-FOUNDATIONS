@@ -27,3 +27,7 @@
 - [Conditionals and Loops notes](/01_24_2023/conditionals.js)
 
 - [Bug-hunt-solution](/01_24_2023/bug-hunt-solution.js)
+
+### 01_25_2023
+
+- [Examples](01_25_2023)
