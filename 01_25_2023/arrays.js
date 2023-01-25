@@ -1,4 +1,4 @@
-const names = ["orlando", "dylan", "matt", "veronica"];
+const names = ["orlando", "dyllan", "matt", "veronica"];
 
 // initializing an array
 console.log(names[1], names[0], names[3], names[2]);
