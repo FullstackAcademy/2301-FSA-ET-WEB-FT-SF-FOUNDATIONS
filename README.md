@@ -30,4 +30,7 @@
 
 ### 01_25_2023
 
+- [Morning Review + Intro to Functions](https://youtu.be/4XBjw9PSO90)
+- [Intro to Arrays](https://youtu.be/VFVUkSAJ-fg)
+- [Arrays Review + Intro to TDD](https://youtu.be/yf95ArwZe1s)
 - [Examples](01_25_2023)
