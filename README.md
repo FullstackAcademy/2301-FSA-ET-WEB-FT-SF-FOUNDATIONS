@@ -34,3 +34,11 @@
 - [Intro to Arrays](https://youtu.be/VFVUkSAJ-fg)
 - [Arrays Review + Intro to TDD](https://youtu.be/yf95ArwZe1s)
 - [Examples](01_25_2023)
+
+### 01_26_2023
+
+- [Morning Review](https://youtu.be/BGx6MeHjTVE)
+- [Intro to REACTO](https://youtu.be/qnrji4lpmXo)
+- [TDD-Strategies Solution Review](https://youtu.be/pbNzND6OH-U)
+
+- [TDD-Strategies Solution Code](https://github.com/FullstackAcademy/Foundations.JS.TDD.Strategies.Solution)
