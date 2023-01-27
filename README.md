@@ -42,3 +42,9 @@
 - [TDD-Strategies Solution Review](https://youtu.be/pbNzND6OH-U)
 
 - [TDD-Strategies Solution Code](https://github.com/FullstackAcademy/Foundations.JS.TDD.Strategies.Solution)
+
+### 01_27_2023
+
+- [Examples](01_27_2023)
+<!-- - [Morning Review](https://youtu.be/BGx6MeHjTVE)
+- [Examples](01_25_2023) -->
