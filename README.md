@@ -52,7 +52,7 @@
 
 - Morning Review
     - [Lecture] - TBD
-    - [Notes][01_30_2023/review.js]
+    - [Notes](01_30_2023/review.js)
 - Git Demo
     - [Lecture] - TBD
     - [Worksheet Solution](https://docs.google.com/document/d/1m2ejwaiZmxw_iVndkh7EnIEOMB9ylgRbrm_Jx0NsuSE/edit)
