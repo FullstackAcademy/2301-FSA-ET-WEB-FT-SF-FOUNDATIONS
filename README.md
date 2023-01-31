@@ -51,13 +51,13 @@
 ### 1_30_2023
 
 - Morning Review
-    - [Lecture] - TBD
+    - [Lecture](https://youtu.be/C-kLGx2H5gs)
     - [Notes](01_30_2023/review.js)
 - Git Demo
-    - [Lecture] - TBD
+    - [Lecture](https://youtu.be/LcJFfqKWAVo)
     - [Worksheet Solution](https://docs.google.com/document/d/1m2ejwaiZmxw_iVndkh7EnIEOMB9ylgRbrm_Jx0NsuSE/edit)
 
 - Objects
-    - [Lecture]- TBD
+    - [Lecture](https://youtu.be/a2R_sYGebug)
     - [Worksheet Solution](https://docs.google.com/document/d/1tMHJX1TdtDb5fJCNfPQXCkeUhKVokbgW8mYAfeLZ5rc/edit)
     - [TDD.Objects Solution](https://github.com/FullstackAcademy/Foundations.TDD.Peer.Programming.Objects.Solution)
