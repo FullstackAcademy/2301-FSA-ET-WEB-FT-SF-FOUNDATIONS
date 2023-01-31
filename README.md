@@ -71,3 +71,4 @@
 - DOM
   - [Lecture](https://youtu.be/69q3RDmdN8s)
   - [Examples](01_31_2023/DOM)
+- [DOM Worksheet Review](https://youtu.be/3oV7ZeXgQeE)
