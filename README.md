@@ -11,6 +11,7 @@
 - [Personal Site Intro](https://youtu.be/6BF0qcHIh2Q)
 
 ### 01-23-2023
+
 - [Review Lecture + Terminal](https://youtu.be/4ARAx2iJ9jU)
 - [Terminal Worksheet Review](https://youtu.be/Noamj6crsVk)
 - [Intro to JS](https://youtu.be/YaTd3RNZ_h4)
@@ -51,13 +52,22 @@
 ### 1_30_2023
 
 - Morning Review
-    - [Lecture](https://youtu.be/C-kLGx2H5gs)
-    - [Notes](01_30_2023/review.js)
+  - [Lecture](https://youtu.be/C-kLGx2H5gs)
+  - [Notes](01_30_2023/review.js)
 - Git Demo
-    - [Lecture](https://youtu.be/LcJFfqKWAVo)
-    - [Worksheet Solution](https://docs.google.com/document/d/1m2ejwaiZmxw_iVndkh7EnIEOMB9ylgRbrm_Jx0NsuSE/edit)
+  - [Lecture](https://youtu.be/LcJFfqKWAVo)
+  - [Worksheet Solution](https://docs.google.com/document/d/1m2ejwaiZmxw_iVndkh7EnIEOMB9ylgRbrm_Jx0NsuSE/edit)
 
 - Objects
-    - [Lecture](https://youtu.be/a2R_sYGebug)
-    - [Worksheet Solution](https://docs.google.com/document/d/1tMHJX1TdtDb5fJCNfPQXCkeUhKVokbgW8mYAfeLZ5rc/edit)
-    - [TDD.Objects Solution](https://github.com/FullstackAcademy/Foundations.TDD.Peer.Programming.Objects.Solution)
+  - [Lecture](https://youtu.be/a2R_sYGebug)
+  - [Worksheet Solution](https://docs.google.com/document/d/1tMHJX1TdtDb5fJCNfPQXCkeUhKVokbgW8mYAfeLZ5rc/edit)
+  - [TDD.Objects Solution](https://github.com/FullstackAcademy/Foundations.TDD.Peer.Programming.Objects.Solution)
+
+### 1_31_2023
+
+- Morning Review
+  - [Lecture](https://youtu.be/VxN87Ew3KuE)
+  - [Example](01_31_2023/review.js)
+- DOM
+  - [Lecture](https://youtu.be/69q3RDmdN8s)
+  - [Examples](01_31_2023/DOM)
