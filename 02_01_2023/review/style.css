@@ -1,0 +1,9 @@
+body {
+    background-color: lightblue;
+}
+
+.sports {
+    text-transform: uppercase;
+    background-color: rgb(37, 34, 34);
+    color: red;
+}
