@@ -8,3 +8,7 @@ td {
 tr {
     display: inline-block;
 }
+
+p {
+    font-size: 18px;
+}
