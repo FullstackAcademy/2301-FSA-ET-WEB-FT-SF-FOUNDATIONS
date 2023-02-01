@@ -72,3 +72,20 @@
   - [Lecture](https://youtu.be/69q3RDmdN8s)
   - [Examples](01_31_2023/DOM)
 - [DOM Worksheet Review](https://youtu.be/3oV7ZeXgQeE)
+
+### 2_01_2023
+
+- Morning Review
+  - [lecture] - TBA
+  - [Example](02_01_2023/review)
+
+- DOM Chessboard
+  - [Lecture] - TBA
+  - [Example](02_01_2023/chess-demo)
+
+- Events & Handlers
+  - [Lecture] - TBA
+  - [Example](02_01_2023/event-intro)
+  - [Worksheet Solution](https://docs.google.com/document/d/12MMtk-pJFUOmA2eJ1Zl3S5E4MGq2NUae6PWzD-yNaX4/edit)
+
+- [Events Pair Exercise Solution](https://github.com/FullstackAcademy/Foundations.DOM.Pair.Programming.Events.Solution)
