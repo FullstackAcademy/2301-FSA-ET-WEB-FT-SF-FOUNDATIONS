@@ -76,16 +76,17 @@
 ### 2_01_2023
 
 - Morning Review
-  - [lecture] - TBA
+  - [lecture](https://youtu.be/9vdA5I-tLqo)
   - [Example](02_01_2023/review)
 
 - DOM Chessboard
-  - [Lecture] - TBA
+  - [Lecture](https://youtu.be/4rK7bPlLG8I)
   - [Example](02_01_2023/chess-demo)
 
 - Events & Handlers
-  - [Lecture] - TBA
+  - [Lecture](https://youtu.be/4rK7bPlLG8I)
   - [Example](02_01_2023/event-intro)
   - [Worksheet Solution](https://docs.google.com/document/d/12MMtk-pJFUOmA2eJ1Zl3S5E4MGq2NUae6PWzD-yNaX4/edit)
 
 - [Events Pair Exercise Solution](https://github.com/FullstackAcademy/Foundations.DOM.Pair.Programming.Events.Solution)
+- [Video](https://youtu.be/eoBC0PKN28w)
