@@ -90,3 +90,9 @@
 
 - [Events Pair Exercise Solution](https://github.com/FullstackAcademy/Foundations.DOM.Pair.Programming.Events.Solution)
 - [Video](https://youtu.be/eoBC0PKN28w)
+
+### 02_02_2023
+
+- Morning Review
+  <!-- - [Lecture](https://youtu.be/VxN87Ew3KuE) -->
+  - [Example](02_02_2023)
