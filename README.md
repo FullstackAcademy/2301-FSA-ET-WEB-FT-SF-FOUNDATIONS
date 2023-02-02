@@ -94,5 +94,5 @@
 ### 02_02_2023
 
 - Morning Review
-  <!-- - [Lecture](https://youtu.be/VxN87Ew3KuE) -->
+  - [Lecture](https://youtu.be/9cUCtgxf-ZY)
   - [Example](02_02_2023)
