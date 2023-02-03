@@ -96,3 +96,12 @@
 - Morning Review
   - [Lecture](https://youtu.be/9cUCtgxf-ZY)
   - [Example](02_02_2023)
+
+### 02_03_2023
+
+- OH Guessing Game Review
+  - [Video](https://youtu.be/GQRZlUbLlh4)
+  - [Code](02_03_2023/guessing-game)
+- Morning Review
+  - [Lecture](https://youtu.be/HuUsfNYVY64)
+  - [Example](02_03_2023/flash-card-demo)
