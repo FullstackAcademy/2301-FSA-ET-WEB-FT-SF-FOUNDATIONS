@@ -1,0 +1,19 @@
+#card {
+    display:flex;
+    flex-direction: column;
+    width: 50vw;
+    align-items: flex-end;
+    border: 1px solid black;
+    padding: 2rem;
+}
+
+#card > section {
+    display:flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+#card hr {
+    border-top: 2px solid black;
+    width: 90%;
+}
