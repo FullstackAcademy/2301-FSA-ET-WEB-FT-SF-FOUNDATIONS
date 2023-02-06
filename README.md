@@ -117,3 +117,7 @@
   - [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
   - [Factory Functions](https://www.webmound.com/javascript-factory-function-explained/)
   - [Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
+
+- Solutions:
+  - [Team Worksheet](https://docs.google.com/document/d/1OJc03tACbj6xNX_qfUGlubP8ec_zQjJujubRnhGoC6I/edit?usp=sharing)
+  - [Monster Battle 1](https://github.com/FullstackAcademy/Foundations.OOP.MonsterBattle.Solution/blob/4.1Solution/index.js)
