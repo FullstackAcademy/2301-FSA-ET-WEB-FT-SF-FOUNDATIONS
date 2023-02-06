@@ -74,16 +74,16 @@ function Computer(os, ram, ssd) {
   this.os = os;
   this.ram = ram;
   this.ssd = ssd;
-  this.info = function () {
-    return this.os + ", " + this.ram + ", " + this.ssd;
-  };
+  // this.info = function () {
+  //   return this.os + ", " + this.ram + ", " + this.ssd;
+  // };
 }
 
 const computerFromContructor = new Computer("windows 11", "16 GB", "1 TB");
 const macbookFromContructor = new Computer("OS X", "16 GB", "2 TB");
 
-// console.log(computerFromContructor.info());
-// console.log(macbookFromContructor.info());
+console.log(computerFromContructor.os);
+console.log(macbookFromContructor.ram);
 
 // classes
 class ComputerClass {
@@ -101,5 +101,5 @@ class ComputerClass {
 const linuxComputerFromClass = new ComputerClass("linux", "16 GB", "1 TB");
 const macComputerFromClass = new ComputerClass("OS X", "32 GB", "5 TB");
 
-console.log(linuxComputerFromClass.info());
-console.log(macComputerFromClass.info());
+// console.log(linuxComputerFromClass.info());
+// console.log(macComputerFromClass.info());
