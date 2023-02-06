@@ -105,3 +105,15 @@
 - Morning Review
   - [Lecture](https://youtu.be/HuUsfNYVY64)
   - [Example](02_03_2023/flash-card-demo)
+
+### 02_06_2023
+
+- Lecture
+  - [Recording](https://youtu.be/h2BhX4hTpjc)
+  - [Code Examples](https://github.com/FullstackAcademy/2301-FSA-ET-WEB-FT-SF/tree/main/02_06_2023)
+
+- Resources:
+  - [Function Constructors](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/Function)
+  - [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+  - [Factory Functions](https://www.webmound.com/javascript-factory-function-explained/)
+  - [Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
