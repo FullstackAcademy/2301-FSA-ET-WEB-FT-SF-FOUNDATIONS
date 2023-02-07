@@ -1,5 +1,9 @@
 # 2301-FSA-ET-WEB-FT-SF
 
+## Week 1
+<details>
+<summary>HTML & CSS</summary>
+
 ### 01-19-2023
 
 - [Examples](01_19_2023)
@@ -9,6 +13,12 @@
 - [Review Lecture](https://youtu.be/XwQNPPGfvRE)
 - [CSS Layout Solutions](01_20_2023)
 - [Personal Site Intro](https://youtu.be/6BF0qcHIh2Q)
+
+</details>
+
+## Week 2
+<details>
+<summary>Javascript & TDD</summary>
 
 ### 01-23-2023
 
@@ -48,6 +58,12 @@
 
 - [Examples](01_27_2023)
 - [Morning Review](https://youtu.be/0Hjl4YPEpbw)
+
+</details>
+
+## Week 3
+<details>
+<summary>Intro to the DOM</summary>
 
 ### 1_30_2023
 
@@ -106,6 +122,12 @@
   - [Lecture](https://youtu.be/HuUsfNYVY64)
   - [Example](02_03_2023/flash-card-demo)
 
+</details>
+
+## Week 4
+<details open='true'>
+<summary>Object Oriented Programming</summary>
+
 ### 02_06_2023
 
 - Lecture
@@ -121,3 +143,22 @@
 - Solutions:
   - [Team Worksheet](https://docs.google.com/document/d/1OJc03tACbj6xNX_qfUGlubP8ec_zQjJujubRnhGoC6I/edit?usp=sharing)
   - [Monster Battle 1](https://github.com/FullstackAcademy/Foundations.OOP.MonsterBattle.Solution/blob/4.1Solution/index.js)
+
+
+### 02_07_2023
+
+- Morning Review
+  - [code](/02_07_2023/review/review.js)
+  - [Lecture](https://youtu.be/l-qjkdgVSg8)
+
+- Inheritance
+  - [Examples](02_07_2023/inheritance)
+  - [Lecture](https://youtu.be/nXxLL479FWo)
+
+- Solutions
+  - [Team Worksheet](https://docs.google.com/document/d/1Yh_LScwN5J6V2Ol75-FxKV4OR-YU-GG-JgoJuWZguGU/edit?usp=sharing)
+  - [Monsters to Screen](https://github.com/FullstackAcademy/Foundations.OOP.MonsterBattle.Solution/tree/4.2Solution/js)
+  - [Monsters to Screen Lecture](https://youtu.be/DOWpCwW4Xc8)
+
+
+</details>
