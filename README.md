@@ -160,6 +160,10 @@
   - [Monsters to Screen](https://github.com/FullstackAcademy/Foundations.OOP.MonsterBattle.Solution/tree/4.2Solution/js)
   - [Monsters to Screen Lecture](https://youtu.be/DOWpCwW4Xc8)
 
+### 02_08_2023
+
+- Expectations Going Forward
+  - [Recording](https://youtu.be/wMHAlPnfNi0)
 
 </details>
 
