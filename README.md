@@ -174,6 +174,9 @@
   - [Video](https://youtu.be/y6jvVg0iV04)
   - [demo code ](02_09_2023/schools-example)
 
+- Card Game
+  - [Basic classes and game render](https://github.com/FullstackAcademy/Foundations.OOP.CardGames.Solution.git)
+
 </details>
 
 <hr />
