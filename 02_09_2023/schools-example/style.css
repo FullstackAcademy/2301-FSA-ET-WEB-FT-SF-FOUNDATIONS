@@ -1,0 +1,24 @@
+.classes {
+    display:flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.people {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 150px;
+    border: 1px solid black;
+    margin: 2%;
+    border-radius: 4%;
+    padding: 2%;
+}
+
+h2{
+    text-align: center;
+}
