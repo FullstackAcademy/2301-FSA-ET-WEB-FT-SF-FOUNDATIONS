@@ -165,6 +165,15 @@
 - Expectations Going Forward
   - [Recording](https://youtu.be/wMHAlPnfNi0)
 
+### 02_09_2023
+
+- Morning Review
+  - [Lecture](https://youtu.be/FT4wHgnKkEQ)
+
+- Lecture
+  - [Video](https://youtu.be/y6jvVg0iV04)
+  - [demo code ](02_09_2023/schools-example)
+
 </details>
 
 <hr />
