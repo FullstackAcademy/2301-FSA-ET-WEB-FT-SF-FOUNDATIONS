@@ -177,6 +177,12 @@
 - Card Game
   - [Basic classes and game render](https://github.com/FullstackAcademy/Foundations.OOP.CardGames.Solution.git)
 
+### 02_10_2023
+
+- Morning Review + Function Constructors / Classes
+  <!-- - [Lecture]() -->
+  - [Examples](02_10_2023/review.js)
+
 </details>
 
 <hr />
