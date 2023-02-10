@@ -180,7 +180,7 @@
 ### 02_10_2023
 
 - Morning Review + Function Constructors / Classes
-  <!-- - [Lecture]() -->
+  - [Lecture](https://youtu.be/ylDX-yOMOBE)
   - [Examples](02_10_2023/review.js)
 
 </details>
