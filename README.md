@@ -191,6 +191,6 @@
 
 \* *Disclaimer* \* We will release solutions to the end of week projects only AFTER grades have been posted.  This may take up to a week depending on how complex the grading can be since we do grade each one individually to give you the most attention possible.
 
-- [Portfolio Site Solution](https://github.com/FullstackAcademy/Foundations.Assessment.Portfolio.Solution)
-- [Technical Interview TDD Solution](https://github.com/FullstackAcademy/Foundations.Assessment.TechnicalInterview.Solution)
-- Whack-a-Mole - TBA
+- [Portfolio Site](https://github.com/FullstackAcademy/Foundations.Assessment.Portfolio.Solution)
+- [Technical Interview TDD](https://github.com/FullstackAcademy/Foundations.Assessment.TechnicalInterview.Solution)
+- [Whack-a-Mole](https://github.com/FullstackAcademy/Foundations.Assessment.Whackamole.Solution)
