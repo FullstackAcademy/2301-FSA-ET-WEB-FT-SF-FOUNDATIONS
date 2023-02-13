@@ -125,7 +125,7 @@
 </details>
 
 ## Week 4
-<details open='true'>
+<details>
 <summary>Object Oriented Programming</summary>
 
 ### 02_06_2023
@@ -185,6 +185,26 @@
 
 </details>
 
+## Week 5
+<details open='true'>
+<summary>Functional Programming</summary>
+
+### 02_13_2023
+
+- Morning Review
+  - Lecture
+  - [Notes](02_13_2023/morning-rev)
+- Recursion
+  - Lecture
+  - [Notes](02_13_2023/recursion)
+- Functions Worksheet
+  - [Notes](02_13_2023/function-tests.js)
+  - Worksheet Solution
+
+- TDD Recursion
+  - [Solution Code](https://github.com/FullstackAcademy/Foundations.TDD.Recursion.Solution)
+
+</details>
 <hr />
 
 ## Weekly Project Solutions
