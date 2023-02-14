@@ -220,7 +220,6 @@
   - [Team Worksheet Review](https://youtu.be/ltQBO4knUEs)
   - [Team Worksheet Solution](https://docs.google.com/document/d/1cX7jlrdrvDDtk4XEKXTlDJ7Zmeskhppx6kV74vPXs6E/edit?usp=sharing)
   - [Pair Assignment Explanation](https://youtu.be/kBeiiLh0ZAg)
-  - [Text Processing Solution](https://github.com/FullstackAcademy/Foundations.FP.TextProcessingAlgorithms.Solution/blob/main/script.js)
 </details>
 <hr />
 
