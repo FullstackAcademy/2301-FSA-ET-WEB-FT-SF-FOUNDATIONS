@@ -208,11 +208,11 @@
 
 - Morning Lecture
   - [Lecture]()
-  - Recursion Review
-  - New Content
+  - [Recursion Review Example](02_14_2023/recursion.js)
+  - New Content Examples
     - [Higher Order Function](02_14_2023/higher-order-functions.js)
     - [Closures](02_14_2023/closures.js)
-    - [Factory Function Closure](02_14_2023/higher-order-functions.js)
+    - [Factory Function Closure](02_14_2023/factoryClosure.js)
     - [this](02_14_2023/this.js)
     - [Currying](02_14_2023/currying.js)
 
