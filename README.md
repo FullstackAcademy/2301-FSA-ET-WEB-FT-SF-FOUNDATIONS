@@ -199,7 +199,7 @@
   - [Notes](02_13_2023/recursion)
 - Functions Worksheet
   - [Notes](02_13_2023/function-tests.js)
-  - Worksheet Solution
+  - [Worksheet Solution](https://docs.google.com/document/d/1_cPLOcNDKjAdLBAWrPkDh2M2R9NyrIS_0yFSiHbnwm8/edit?usp=sharing)
 
 - TDD Recursion
   - [Solution Code](https://github.com/FullstackAcademy/Foundations.TDD.Recursion.Solution)
@@ -216,6 +216,11 @@
     - [this](02_14_2023/this.js)
     - [Currying](02_14_2023/currying.js)
 
+- Afternoon
+  - [Team Worksheet Review](https://youtu.be/ltQBO4knUEs)
+  - [Team Worksheet Solution](https://docs.google.com/document/d/1cX7jlrdrvDDtk4XEKXTlDJ7Zmeskhppx6kV74vPXs6E/edit?usp=sharing)
+  - [Pair Assignment Explanation](https://youtu.be/kBeiiLh0ZAg)
+  - [Text Processing Solution](https://github.com/FullstackAcademy/Foundations.FP.TextProcessingAlgorithms.Solution/blob/main/script.js)
 </details>
 <hr />
 
