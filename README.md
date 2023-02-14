@@ -204,6 +204,18 @@
 - TDD Recursion
   - [Solution Code](https://github.com/FullstackAcademy/Foundations.TDD.Recursion.Solution)
 
+### 02_14_2023
+
+- Morning Lecture
+  - [Lecture]()
+  - Recursion Review
+  - New Content
+    - [Higher Order Function](02_14_2023/higher-order-functions.js)
+    - [Closures](02_14_2023/closures.js)
+    - [Factory Function Closure](02_14_2023/higher-order-functions.js)
+    - [this](02_14_2023/this.js)
+    - [Currying](02_14_2023/currying.js)
+
 </details>
 <hr />
 

@@ -1,4 +1,3 @@
-// higher order functions
 const array = [1, 2, 3, 4, 5];
 
 function looper(currentElementOfArray) {
@@ -9,12 +8,10 @@ const looperArrow = (currentElementOfArray) => {
   console.log(currentElementOfArray);
 };
 
-// array.forEach(looperArrow);
-// array.forEach((element) => console.log(element));
-
-// for (const element of array) {
-//   console.log(element);
-// }
+// forEach allows us to loop through a list of elements using functional
+//  syntax
+array.forEach(looperArrow);
+array.forEach((element) => console.log(element));
 
 function createGreeter(name) {
   return function () {
