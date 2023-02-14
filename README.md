@@ -207,7 +207,7 @@
 ### 02_14_2023
 
 - Morning Lecture
-  - [Lecture]()
+  - [Lecture](https://youtu.be/1_l_kKVnxLI)
   - [Recursion Review Example](02_14_2023/recursion.js)
   - New Content Examples
     - [Higher Order Function](02_14_2023/higher-order-functions.js)
