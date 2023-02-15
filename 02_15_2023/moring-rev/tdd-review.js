@@ -106,6 +106,45 @@ const isSame = (s1, s2) => {
     return isSame(s1.slice(1), s2.slice(1));
   };
 
+
+
+  const getEditDistance = ( s1, s2 ) => {
+    // Base Cases
+    if (s1 === s2) return 0; // strings are same ( we are done )
+     // Both empty
+    if (!s1 && !s2) return 0;
+    // One empty and one not
+    if (!s1 || !s2) return Math.abs(s1.length - s2.length);
+
+    // Maybe a case where one string is part of another string (the distance between is how many removals)
+
+    // Recursive Cases
+
+    /**
+   * The idea here is that we only ever look at the first letter,
+   * and if they're the same then we can ignore them.
+   * Otherwise we have to try an edit operation.
+   */
+
+    if (s1[0] === s2[0]) { // same first letter
+        return getEditDistance(s1.slice(1), s2.slice(2))
+    }
+
+    // ABC, DEF => DABC, DEF => ABC, EF
+    const add = getEditDistance(s1, s2.slice(1))
+    const remove = getEditDistance(s1.slice(1), s2);
+
+    const substitute = getEditDistance(s1.slice(1), s2.slice(1));
+
+    return Math.min(add, remove, substitute) + 1
+
+  }
+
+
+
+
+
+
   const getClosestWord = (words, word, distanceFn, limit) => {
     let currentClosestWord;
     let currentClosestDistance = Number.MAX_VALUE;

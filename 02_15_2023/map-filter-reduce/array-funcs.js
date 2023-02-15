@@ -1,5 +1,4 @@
 
-
 let nums = [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
 
 // Add one to each value
@@ -82,3 +81,6 @@ let arrOfObj = [ { total: 120}, {total: 37}]
 total = arrOfObj.reduce((acc, curr) => acc + curr.total, 0)
 
 console.log(total)
+
+
+

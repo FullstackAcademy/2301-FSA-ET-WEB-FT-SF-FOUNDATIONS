@@ -221,6 +221,18 @@
   - [Team Worksheet Solution](https://docs.google.com/document/d/1cX7jlrdrvDDtk4XEKXTlDJ7Zmeskhppx6kV74vPXs6E/edit?usp=sharing)
   - [Pair Assignment Explanation](https://youtu.be/kBeiiLh0ZAg)
   - [Text Processing Solution](https://gist.github.com/orlandocaraballo/4d2c237d1c80edd42b4863a504fa5e59)
+
+
+### 02_15_2023
+
+- Morning Review
+  - [Demo Code](02_15_2023/moring-rev)
+
+- Map/ Filter/ Reduce
+  - [Example](02_15_2023/map-filter-reduce)
+
+- [DataAnalytics Solution](https://github.com/FullstackAcademy/Foundations.FP.DataAnalytics.Solution)
+
 </details>
 <hr />
 

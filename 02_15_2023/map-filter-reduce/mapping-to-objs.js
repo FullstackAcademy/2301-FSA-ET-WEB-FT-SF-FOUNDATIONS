@@ -124,3 +124,37 @@ const mostFreqWord = (wordsObj) => {
 let obj = countWordsInSentence(words)
 console.log(obj)
 mostFreqWord(obj)
+
+
+
+
+
+
+// What would be useful for each prompt?
+
+// 1)
+// .length
+
+// 2)
+// token.length -> length of a sinle token 
+// sum up all the lengths(reduce?)
+
+// 3)
+// total length of all words / total number of words
+
+// 4) 
+// loop/map/forEach  find the length of a token and see if its longer than previous ones
+
+// 5)
+// filter
+
+// 6 & 7 (how many start with a character)
+// filter
+
+let bText = ['hello', 'test', 'he', 'Welcome']
+const numberOfTokens = (bText) => bText.length
+
+const totalCharacters = (bText) => bText.reduce((acc, curVal) => acc + curVal.length,0)
+
+console.log(totalCharacters(bText))
+console.log(totalCharacters(bText) / numberOfTokens(bText))
