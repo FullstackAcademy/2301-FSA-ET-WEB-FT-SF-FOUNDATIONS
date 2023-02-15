@@ -227,11 +227,15 @@
 
 - Morning Review
   - [Demo Code](02_15_2023/moring-rev)
+  - [Lecture](https://youtu.be/DvXIoO3Pvrk)
 
 - Map/ Filter/ Reduce
   - [Example](02_15_2023/map-filter-reduce)
+  - [Lecture part 1](https://youtu.be/nOM6vMoNNOY)
+  - [Lecture part 2](https://youtu.be/wpTjGnK7Irs)
 
 - [DataAnalytics Solution](https://github.com/FullstackAcademy/Foundations.FP.DataAnalytics.Solution)
+- [ Solution Video 1-5, 8](https://youtu.be/E5_frxo4jZ0)
 
 </details>
 <hr />
