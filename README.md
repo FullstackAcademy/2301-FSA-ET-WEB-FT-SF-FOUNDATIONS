@@ -240,6 +240,13 @@
 </details>
 <hr />
 
+### 02_16_2023
+
+- Morning Review
+  - [Lecture](https://youtu.be/DvXIoO3Pvrk)
+  - [Sort](02_16_2023/sort.js)
+  - [Higher Order Functions](02_16_2023/higher-order-functions.js)
+
 ## Weekly Project Solutions
 
 \* *Disclaimer* \* We will release solutions to the end of week projects only AFTER grades have been posted.  This may take up to a week depending on how complex the grading can be since we do grade each one individually to give you the most attention possible.
