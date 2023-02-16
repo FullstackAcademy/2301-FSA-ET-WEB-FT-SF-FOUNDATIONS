@@ -242,10 +242,13 @@
 
 ### 02_16_2023
 
-- Morning Review
+- Morning
   - [Lecture](https://youtu.be/DvXIoO3Pvrk)
   - [Sort](02_16_2023/sort.js)
   - [Higher Order Functions](02_16_2023/higher-order-functions.js)
+- Afternoon
+  - [Dynamic DOM Review + Bookshelf Sorting Intro](https://youtu.be/xFKnUZ6M9L4)
+  - [Dynamic DOM Solution](https://github.com/FullstackAcademy/Foundations.FP.DynamicDOM.Solution)
 
 ## Weekly Project Solutions
 
