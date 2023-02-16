@@ -254,3 +254,4 @@
 - [Portfolio Site](https://github.com/FullstackAcademy/Foundations.Assessment.Portfolio.Solution)
 - [Technical Interview TDD](https://github.com/FullstackAcademy/Foundations.Assessment.TechnicalInterview.Solution)
 - [Whack-a-Mole](https://github.com/FullstackAcademy/Foundations.Assessment.Whackamole.Solution)
+- [Bookshelf Data](https://github.com/FullstackAcademy/Foundations.Assessment.BookshelfSims.Solution/tree/bookshelf-data-classes)
