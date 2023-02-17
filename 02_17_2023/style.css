@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: cadetblue;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+.apartment-list {
+    display:flex;
+    flex-wrap: wrap;
+}
+.card {
+    width: fit-content;
+    background-color: beige;
+    margin: 10px;
+}
+.card > * {
+    padding-left: 2em;
+}
+.card img {
+    padding:0;
+    width: 100%;
+    max-width: 500px;
+}
+
+.card .features {
+    display:flex;
+}
+.card .features > * {
+    margin: 1em;
+    border-right: 2px solid gray;
+    padding-right: 2em;
+}
+
+.add-form{
+    display:flex;
+    flex-direction: column;
+}
+
+input {
+    width: 50%;
+}
+
+button {
+    width: 200px;
+}
