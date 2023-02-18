@@ -237,8 +237,7 @@
 - [DataAnalytics Solution](https://github.com/FullstackAcademy/Foundations.FP.DataAnalytics.Solution)
 - [ Solution Video 1-5, 8](https://youtu.be/E5_frxo4jZ0)
 
-</details>
-<hr />
+
 
 ### 02_16_2023
 
@@ -249,6 +248,19 @@
 - Afternoon
   - [Dynamic DOM Review + Bookshelf Sorting Intro](https://youtu.be/xFKnUZ6M9L4)
   - [Dynamic DOM Solution](https://github.com/FullstackAcademy/Foundations.FP.DynamicDOM.Solution)
+
+### 02_17_2023
+
+- Foundations FINAL PROJECT
+  - [Intro to final Project Lecture](https://youtu.be/PxsNmM2THRo)
+
+- Review > Apartment Listings
+  - [Demo](02_17_2023/)
+  - [Video](https://youtu.be/k1eaLfoDY_E)
+
+</details>
+<hr />
+
 
 ## Weekly Project Solutions
 

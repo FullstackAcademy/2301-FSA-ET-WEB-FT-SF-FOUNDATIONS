@@ -35,10 +35,11 @@ class AparmentList {
             listSection.append(card)
 
             let removeBtns = document.querySelectorAll('.remove-btn') // grab ALL "remove" btns
-            console.log(removeBtns)
-            
             let lastBtn = removeBtns[removeBtns.length-1]
 
+            console.log('Looping: ', i)
+            console.log(removeBtns)
+            // only adding the event listener to the most recent button as Im looping
             lastBtn.addEventListener('click', () => {
                 console.log('Remove Btn!')
 
@@ -49,17 +50,6 @@ class AparmentList {
                 this.render()
             })
         }
-
-        // this.apartments.forEach((apt) => {
-        //     let card = apt.render()
-        //     listSection.append(card)
-        // })
-
-        // let removeBtns = [...document.getElementsByClassName('remove-btn')] // spread operator is converting to an array
-        // removeBtns.forEach(btn => btn.addEventListener('click', (e) => {
-        //     console.log(e.target)
-        //     console.log(this)
-        // }))
 
         return allAptRenders
     }
