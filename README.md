@@ -192,14 +192,14 @@
 ### 02_13_2023
 
 - Morning Review
-  - Lecture
   - [Notes](02_13_2023/morning-rev)
 - Recursion
-  - Lecture
+  - [Lecture][https://youtu.be/FFWm6cJFKGg]
   - [Notes](02_13_2023/recursion)
 - Functions Worksheet
   - [Notes](02_13_2023/function-tests.js)
   - [Worksheet Solution](https://docs.google.com/document/d/1_cPLOcNDKjAdLBAWrPkDh2M2R9NyrIS_0yFSiHbnwm8/edit?usp=sharing)
+  - [Video](https://youtu.be/MQGoHuZuuTY)
 
 - TDD Recursion
   - [Solution Code](https://github.com/FullstackAcademy/Foundations.TDD.Recursion.Solution)
